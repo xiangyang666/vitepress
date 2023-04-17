@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,V as a}from"./chunks/framework.8a4a63e9.js";const T=JSON.parse('{"title":"TypeScript","description":"","frontmatter":{"title":"TypeScript"},"headers":[],"relativePath":"base/TypeScript.md"}'),p={name:"base/TypeScript.md"},c=a("",3),o=[c];function r(n,i,l,_,d,y){return s(),t("div",null,o)}const S=e(p,[["render",r]]);export{T as __pageData,S as default};

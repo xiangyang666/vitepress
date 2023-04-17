@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,V as l}from"./chunks/framework.8a4a63e9.js";const A=JSON.parse('{"title":"两数之和","description":"","frontmatter":{"title":"两数之和"},"headers":[],"relativePath":"algorithm/4-two-sum.md"}'),o={name:"algorithm/4-two-sum.md"},p=l("",10),e=[p];function t(c,r,y,F,D,i){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{A as __pageData,d as default};

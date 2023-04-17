@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.f5d74cd7.js";const C=JSON.parse('{"title":"Pinia","description":"","frontmatter":{"title":"Pinia"},"headers":[],"relativePath":"base/Pinia.md"}'),p={name:"base/Pinia.md"},o=l("",20),t=[o];function e(c,r,y,D,F,i){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{C as __pageData,u as default};
