@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,V as n}from"./chunks/framework.9311ba97.js";const _=JSON.parse('{"title":"webpack","description":"","frontmatter":{"title":"webpack"},"headers":[],"relativePath":"base/webpark笔记.md"}'),l={name:"base/webpark笔记.md"},p=n("",9),c=[p];function t(i,o,r,b,k,d){return s(),e("div",null,c)}const h=a(l,[["render",t]]);export{_ as __pageData,h as default};

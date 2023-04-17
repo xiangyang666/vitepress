@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,V as r}from"./chunks/framework.c3570a9a.js";const f=JSON.parse('{"title":"其他","description":"","frontmatter":{"title":"其他"},"headers":[],"relativePath":"interview/other.md"}'),o={name:"interview/other.md"},i=r("",5),n=[i];function h(s,c,l,d,_,u){return t(),e("div",null,n)}const p=a(o,[["render",h]]);export{f as __pageData,p as default};
