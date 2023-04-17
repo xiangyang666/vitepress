@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.9311ba97.js";const _=JSON.parse('{"title":"前端常用单词","description":"","frontmatter":{"title":"前端常用单词"},"headers":[],"relativePath":"base/word.md"}'),p={name:"base/word.md"},e=l("",2),t=[e];function c(i,o,r,y,f,E){return a(),n("div",null,t)}const h=s(p,[["render",c]]);export{_ as __pageData,h as default};
