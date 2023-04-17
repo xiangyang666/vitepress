@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as l}from"./chunks/framework.8a4a63e9.js";const i=JSON.parse('{"title":"canvas","description":"","frontmatter":{"title":"canvas"},"headers":[],"relativePath":"base/canvas.md"}'),p={name:"base/canvas.md"},o=l("",8),t=[o];function e(c,r,D,y,F,C){return n(),a("div",null,t)}const d=s(p,[["render",e]]);export{i as __pageData,d as default};
