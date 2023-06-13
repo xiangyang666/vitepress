@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r}from"./chunks/framework.6038b03e.js";const i=JSON.parse('{"title":"curl","description":"","frontmatter":{"title":"curl"},"headers":[],"relativePath":"frontEnd/curl.md","lastUpdated":1685115959000}'),a={name:"frontEnd/curl.md"};function c(n,o,s,d,l,p){return e(),r("div")}const f=t(a,[["render",c]]);export{i as __pageData,f as default};

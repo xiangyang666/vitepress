@@ -1,0 +1,2 @@
+import{_ as t,o as s,c as a,C as e}from"./chunks/framework.6038b03e.js";const f=JSON.parse('{"title":"前言","description":"","frontmatter":{"title":"前言"},"headers":[],"relativePath":"interview/index.md","lastUpdated":1681747929000}'),n={name:"interview/index.md"},o=e("div",{class:"danger custom-block"},[e("p",{class:"custom-block-title"},"DANGER"),e("pre",null,[e("code",null,`前言：现在不知道为什么才进入大一就开始了，刷面试题的想法！！！
+`)])],-1),c=[o];function r(i,d,l,_,p,m){return s(),a("div",null,c)}const x=t(n,[["render",r]]);export{f as __pageData,x as default};
