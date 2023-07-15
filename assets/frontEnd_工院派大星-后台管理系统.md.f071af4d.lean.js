@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as _}from"./chunks/framework.6038b03e.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontEnd/工院派大星-后台管理系统.md","lastUpdated":1689329354000}'),a={name:"frontEnd/工院派大星-后台管理系统.md"};function r(n,o,s,c,d,p){return e(),_("div")}const m=t(a,[["render",r]]);export{i as __pageData,m as default};
