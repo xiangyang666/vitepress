@@ -1,0 +1,5 @@
+import{_ as a,o as s,c as t,V as e}from"./chunks/framework.6038b03e.js";const m=JSON.parse('{"title":"快捷键","description":"","frontmatter":{},"headers":[],"relativePath":"backEnd/javaBase/快捷键.md","lastUpdated":null}'),n={name:"backEnd/javaBase/快捷键.md"},l=e(`<h1 id="快捷键" tabindex="-1">快捷键 <a class="header-anchor" href="#快捷键" aria-label="Permalink to &quot;快捷键&quot;">​</a></h1><div class="language-js"><button title="Copy Code" class="copy"></button><span class="lang">js</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#676E95;font-style:italic;">/*</span></span>
+<span class="line"><span style="color:#676E95;font-style:italic;">	复制当前行的代码到下一行：Shift + Alt + 上下方向键    </span></span>
+<span class="line"><span style="color:#676E95;font-style:italic;">	格式化代码：Ctrl + Alt + L</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#676E95;font-style:italic;">*/</span></span></code></pre></div>`,2),o=[l];function c(i,p,r,_,d,h){return s(),t("div",null,o)}const u=a(n,[["render",c]]);export{m as __pageData,u as default};
